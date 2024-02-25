@@ -59,7 +59,7 @@
 								<div class="cart-search-contact">
 									<button class="search-toggle-btn"><i class="fi flaticon-loupe"></i></button>
 									<div class="header-search-form">
-										<form method="get" action="https://wpocean.com/wp/canun/" class="form">
+										<form method="get" action="" class="form">
 											<div>
 												<input type="text" name="s" class="form-control"
 													placeholder="Search here">

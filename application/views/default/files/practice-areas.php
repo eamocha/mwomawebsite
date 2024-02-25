@@ -32,12 +32,12 @@
 											<div class="row align-items-center">
 												<div class="col-lg-5">
 													<div class="wpo-section-title">
-														<h2>The Area Where We Practice Our Law</h2>
+														<h2>Cases we handle</h2>
 													</div>
 												</div>
 												<div class="col-lg-5 offset-lg-2">
 													<div class="wpo-section-title">
-														<p>At Mwoma and Associates, we are specialisit experts in the following areas</p>
+														<p>At Mwoma and Associates, we are specialisit experts in the following legal areas</p>
 													</div>
 												</div>
 											</div>
@@ -63,11 +63,9 @@
 														<div class="wpo-service-text">
 															<h2>
 																<a
-																	href="practice/personal-injury/">
-																	Personal Injury </a>
+																	href="practice/labour-law/">Labour law </a>
 															</h2>
-															<p>Domestic Violence in London How a Lawyer Can Help I must
-																explain to you how all </p>
+															<p>If you have been terminated UNDER ANY circumstances.Talk to us first. We will review your situation.In almost every case, we will obtain a significantly better outcome for our clients — in a timely manner. </p>
 														</div>
 													</div>
 												</div>
@@ -84,8 +82,7 @@
 																	href="practice/family-law/">
 																	Family Law </a>
 															</h2>
-															<p>Domestic Violence in London How a Lawyer Can Help I must
-																explain to you how all </p>
+															<p>At Mwoma & Advocates, we are well experienced in handling cases related with family matters and domestic disputes,including separation and divorce, division of matrimonial property, adoption, guardianship, custody.</p>
 														</div>
 													</div>
 												</div>
@@ -102,8 +99,7 @@
 																	href="practice/criminal-law/">
 																	Criminal Law </a>
 															</h2>
-															<p>Domestic Violence in London How a Lawyer Can Help I must
-																explain to you how all </p>
+															<p>If you’re facing criminal charges, you’re likely looking to achieve one of three outcomes: Avoiding jail time, Reducing or dismissing your charge; and/or Keeping your record clean. We share those goals and its our endevour to fight for you </p>
 														</div>
 													</div>
 												</div>
@@ -116,12 +112,9 @@
 														</div>
 														<div class="wpo-service-text">
 															<h2>
-																<a
-																	href="practice/education-law/">
-																	Education Law </a>
+																<a href="practice/conveyancing-law/">Constitutional Law  </a>
 															</h2>
-															<p>Domestic Violence in London How a Lawyer Can Help I must
-																explain to you how all </p>
+															<p>Looking for a Constitutional Law lawyer in Nairobi, Kenya?  Clients have entrusted us with files involving governmental division of powers, violation of articles of the constitution, etcetra. Talk to us !</p>
 														</div>
 													</div>
 												</div>
@@ -134,12 +127,11 @@
 														</div>
 														<div class="wpo-service-text">
 															<h2>
-																<a
-																	href="practice/real-estate-law/">
-																	Real Estate Law </a>
+																<a href="practice/conveyancing-law/">
+																	Contract drafting </a>
 															</h2>
-															<p>Domestic Violence in London How a Lawyer Can Help I must
-																explain to you how all </p>
+															<p>Mwoma and Advocates has a solid track record in conveyance practice. We help you draft and review your contracts for compliance with labour and employement laws and ensure you are covered</p>
+
 														</div>
 													</div>
 												</div>
@@ -153,11 +145,10 @@
 														<div class="wpo-service-text">
 															<h2>
 																<a
-																	href="practice/business-law/">
-																	Business Law </a>
+																	href="practice/business-law/">Debt collection 
+																	 </a>
 															</h2>
-															<p>Domestic Violence in London How a Lawyer Can Help I must
-																explain to you how all </p>
+															<p>Debt collection issues can be challenging. You don't have to face them alone. Our experts ensure swift and efficient debt recovery solutions in accordance to the law Kenyan law.</p>
 														</div>
 													</div>
 												</div>

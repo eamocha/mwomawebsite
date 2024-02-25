@@ -1895,8 +1895,8 @@ ol.comments #respond {
 @font-face {
     font-family: 'Glyphicons Halflings';
 
-    src: url('https://wpocean.com/wp/canun/wp-content/themes/canun/assets/fonts/glyphicons-halflings-regular.eot');
-    src: url('https://wpocean.com/wp/canun/wp-content/themes/canun/assets/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('https://wpocean.com/wp/canun/wp-content/themes/canun/assets/fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('https://wpocean.com/wp/canun/wp-content/themes/canun/assets/fonts/glyphicons-halflings-regular.woff') format('woff'), url('https://wpocean.com/wp/canun/wp-content/themes/canun/assets/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('https://wpocean.com/wp/canun/wp-content/themes/canun/assets/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+    src: url('assets/themes/canun/assets/fonts/glyphicons-halflings-regular.eot');
+    src: url('assets/themes/canun/assets/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('assets/themes/canun/assets/fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('assets/themes/canun/assets/fonts/glyphicons-halflings-regular.woff') format('woff'), url('assets/themes/canun/assets/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('assets/themes/canun/assets/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
 
 .glyphicon {

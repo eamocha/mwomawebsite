@@ -5,13 +5,13 @@
 											href="welcome">Home</a></li>
 									<li id="menu-item-79"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a
-											href="about">About</a></li>
+											href="about">About Us</a></li>
 									<li id="menu-item-88"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88"><a
-											href="practice">Practice Areas</a>
+											href="practice">Our Practice Areas</a>
 
 									</li>
-									<li id="menu-item-96"
+								<!--	<li id="menu-item-96"
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-96">
 										<a href="services">Our services</a>
 										<ul class="sub-menu">
@@ -22,7 +22,7 @@
 												class="menu-item menu-item-type-post_type menu-item-object-project menu-item-693">
 												<a href="cases">Service 2</a></li>
 										</ul>
-									</li>
+									</li> -->
 
 
 									<li id="menu-item-81"

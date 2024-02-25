@@ -28,7 +28,7 @@
         <div class="entry-meta">
       <ul>
         <li>
-           <span><i class="fi flaticon-user author"></i> By: <a href="blog/author/admin/" rel="author">Jenifer Willy</a></span>        </li>
+           <span><i class="fi flaticon-user author"></i> By: <a href="blog/author/admin/" rel="author">Derick Mwoma</a></span>        </li>
         <li>
         <i class="fi flaticon-comment-white-oval-bubble"></i>
            <a class="canun-comment" href="blog/8-mistakes-first-time-a-man-can-do-about-law/#respond">
@@ -57,7 +57,7 @@
       <div class="entry-meta">
       <ul>
         <li>
-           <span><i class="fi flaticon-user author"></i> By: <a href="blog/author/admin/" rel="author">Jenifer Willy</a></span>        </li>
+           <span><i class="fi flaticon-user author"></i> By: <a href="blog/author/admin/" rel="author">Derick Mwoma</a></span>        </li>
         <li>
         <i class="fi flaticon-comment-white-oval-bubble"></i>
            <a class="canun-comment" href="blog/things-to-consider-when-choosing-a-law-school-track/#respond">
@@ -86,7 +86,7 @@
        <div class="entry-meta">
       <ul>
         <li>
-           <span><i class="fi flaticon-user author"></i> By: <a href="blog/author/admin/" rel="author">Jenifer Willy</a></span>        </li>
+           <span><i class="fi flaticon-user author"></i> By: <a href="blog/author/admin/" rel="author">Derick Mwoma</a></span>        </li>
         <li>
         <i class="fi flaticon-comment-white-oval-bubble"></i>
            <a class="canun-comment" href="blog/tips-for-choosing-a-legal-specialty/#respond">
@@ -98,7 +98,7 @@
       </ul>
     </div>
     <div class="entry-details">
-      <h3><a href="blog/tips-for-choosing-a-legal-specialty/">Domestic Violence in London How a Lawyer Can Help</a></h3>
+      <h3><a href="blog/tips-for-choosing-a-legal-specialty/">Domestic Violence in Nairobi. How a Lawyer Can Help</a></h3>
        <p>
         Generally, visitation by the birth parents is difficult unless the process was an open adoption as opposed to a closed one. Visitation may still depend on the adoptive parents. These situations require communication and a relationship between all parties before the child ever enters the picture. After a divorce, children may turn into a battlefield       </p>
       <a href="blog/tips-for-choosing-a-legal-specialty/" class="read-more">

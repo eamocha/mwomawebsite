@@ -7,12 +7,12 @@
 <meta name="msapplication-TileColor" content="">
 <meta name="theme-color" content="">
 <link rel="profile" href="http://gmpg.org/xfn/11">
-<title>&#8211; Mwoma &amp; Associates &#8211;  Advocates</title>
+<title> <?php echo $title?></title>
 <meta name='robots' content='max-image-preview:large' />
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 <script type="text/javascript">
 /* <![CDATA[ */
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/wpocean.com\/wp\/canun\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.3"}};
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/mwomaadvocates.co.ke\/assets\/js\/wp-emoji-release.min.js?ver=6.4.3"}};
 /*! This file is auto-generated */
 !function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
 /* ]]> */
@@ -82,11 +82,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script type="text/javascript" src="assets/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="assets/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <script type="text/javascript" src="assets/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min2bc8.js?ver=2.7.0-wc.8.5.2" id="jquery-blockui-js" defer="defer" data-wp-strategy="defer"></script>
-<script type="text/javascript" id="wc-add-to-cart-js-extra">
-/* <![CDATA[ */
-var wc_add_to_cart_params = {"ajax_url":"\/wp\/canun\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/wp\/canun\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/wpocean.com\/wp\/canun\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
-/* ]]> */
-</script>
+
 <script type="text/javascript" src="assets/plugins/woocommerce/assets/js/frontend/add-to-cart.min8833.js?ver=8.5.2" id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
 <script type="text/javascript" src="assets/plugins/woocommerce/assets/js/js-cookie/js.cookie.min0c4a.js?ver=2.1.4-wc.8.5.2" id="js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
 <script type="text/javascript" id="woocommerce-js-extra">
@@ -96,13 +92,8 @@ var woocommerce_params = {"ajax_url":"\/wp\/canun\/wp-admin\/admin-ajax.php","wc
 </script>
 <script type="text/javascript" src="assets/plugins/woocommerce/assets/js/frontend/woocommerce.min8833.js?ver=8.5.2" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
 <script type="text/javascript" src="assets/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min225e.js?ver=3.19.0" id="font-awesome-4-shim-js"></script>
-<link rel="https://api.w.org/" href="https://wpocean.com/wp/canun/wp-json/" /><link rel="alternate" type="application/json" href="https://wpocean.com/wp/canun/wp-json/wp/v2/pages/126" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://wpocean.com/wp/canun/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 6.4.3" />
-<meta name="generator" content="WooCommerce 8.5.2" />
-<link rel="canonical" href="index.html" />
-<link rel='shortlink' href='https://wpocean.com/wp/canun/?p=126' />
-<link rel="alternate" type="application/json+oembed" href="https://wpocean.com/wp/canun/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwpocean.com%2Fwp%2Fcanun%2Fhome-style-2%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://wpocean.com/wp/canun/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwpocean.com%2Fwp%2Fcanun%2Fhome-style-2%2F&amp;format=xml" />
+<link rel="canonical" href="welcome" />
+
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 	<meta name="generator" content="Elementor 3.19.0; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-auto">
   </head>

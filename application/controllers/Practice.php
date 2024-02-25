@@ -6,6 +6,7 @@ class Practice extends CI_Controller {
 
 	public function index()
 	{ 		$data['active'] = "Mwoma & Associates Advocates";
+		$data['title'] = "Our Practice Areas";
         
 		$this->load->view('default/partials/header2',$data);
         $this->load->view('default/partials/topmenu2');
